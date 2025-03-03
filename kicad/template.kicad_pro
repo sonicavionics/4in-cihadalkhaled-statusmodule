@@ -444,7 +444,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "sensors.kicad_pro",
+    "filename": "template.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -764,6 +764,12 @@
           "group_by": false,
           "label": "Manufacturer_Part_Number",
           "name": "Manufacturer_Part_Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Link",
+          "name": "Link",
           "show": false
         }
       ],
